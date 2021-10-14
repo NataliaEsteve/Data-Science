@@ -3,7 +3,6 @@ Exploring and experimenting with Data Science
 
 ## Languages
 . Python
-. R
 
 ## Concepts (David Donoho)
 1. Data Exploration and Preparation
@@ -11,7 +10,7 @@ Exploring and experimenting with Data Science
 3. Computing with Data
 4. Data Modeling
 5. Data Visualization and Presentation
-6. Science abou Data Science
+6. Science about Data Science
 
 ## Areas 
 . Machine Learning
